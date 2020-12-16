@@ -1,0 +1,12 @@
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\bin\Debug\BookStoreProject.exe.config
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\bin\Debug\BookStoreProject.exe
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\bin\Debug\BookStoreProject.pdb
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csprojAssemblyReference.cache
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.Properties.Resources.resources
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.View.AutorisationForm.resources
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.View.BooksForm.resources
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.GenerateResource.cache
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.exe
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.pdb
+C:\Users\skoob\source\repos\BookStoreProject\BookStoreProject\obj\Debug\BookStoreProject.View.BooksFormEditor.resources
